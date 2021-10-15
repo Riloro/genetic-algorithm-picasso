@@ -4,4 +4,9 @@
  algorithm running the notebook  **image_generation.ipynb ** (remember to install requierements.txt)
 
 
- ## Results ecamples: 
+ ## Examples: 
+ ### Objective iamge:
+![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/feynman.png)
+
+
+### Evolution of the result:
