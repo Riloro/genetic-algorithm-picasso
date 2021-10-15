@@ -13,8 +13,7 @@
 | ------------- | ------------- |
 | ![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/feynman.png)  | ![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/gifs/Feynman_final_2.gif)  |
 | ![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/final_rect.png)  |![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/gifs/rect_dynamic_frames.gif)   |
-
-
-
+| ![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/happy_face.png)  |![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/gifs/happy_face_dynamic_frames_final.gif)   |
+| ![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/circle_final.png)  |![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/gifs/circle_dynamic_frames_final.gif)   |
 
 
