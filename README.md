@@ -4,10 +4,17 @@
  algorithm running the notebook  **image_generation.ipynb ** (remember to install requierements.txt)
 
 
+
+|
  ## Examples: 
- ### Objective image:
-![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/feynman.png)
 
 
-### Evolution of the result:
-![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/gifs/Feynman_final_2.gif)
+| Objective image | Evolution of the result |
+| ------------- | ------------- |
+| ![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/feynman.png)  | ![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/gifs/Feynman_final_2.gif)  |
+| Contenido de la celda  | Contenido de la celda  
+
+
+
+
+
