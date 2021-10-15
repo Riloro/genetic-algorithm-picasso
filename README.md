@@ -12,7 +12,7 @@
 | Objective image | Evolution of the result |
 | ------------- | ------------- |
 | ![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/feynman.png)  | ![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/gifs/Feynman_final_2.gif)  |
-| ![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/fat_rect.png)  |![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/gifs/rect_dynamic_frames.gif)   |
+| ![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/final_rect.png)  |![alt text](https://github.com/Riloro/genetic-algorithm-picasso/blob/master/gifs/rect_dynamic_frames.gif)   |
 
 
 
